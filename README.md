@@ -158,20 +158,36 @@ Podrían surgir problemas relacionados con el manejo de algunas APIs, ya que no 
 **Soluciones**:  
 Se utilizarán bibliotecas de compatibilidad (como Polyfills) para resolver diferencias entre navegadores y garantizar que la aplicación funcione correctamente en todos ellos.
 
-## Referencias
+## Referencias y Bibliografía
 
-**APIs**:
+### **APIs**:
 - [**Skyscanner API**](https://developers.skyscanner.net) - Utilizada para obtener información en tiempo real sobre vuelos.
 - [**Amadeus API**](https://developers.amadeus.com) - Alternativa robusta para obtener datos sobre vuelos y ofertas de viaje.
 - [**IATA API**](https://developers.iata.org) - Ofrece acceso a una gran cantidad de datos relacionados con vuelos, aeropuertos y aerolíneas.
 
-**Recursos de Aprendizaje**:
-- [**"Introduction to Node.js with Express"**](https://nodejs.org/en/docs/guides/getting-started-guide/) - Guía práctica de introducción a Node.js y Express.
-- [**"Understanding React and JSX"**](https://reactjs.org/docs/introducing-jsx.html) - Documentación oficial de React sobre el uso de JSX en aplicaciones web.
-- [**"TypeScript Handbook"**](https://www.typescriptlang.org/docs/handbook/intro.html) - Manual oficial de TypeScript para el aprendizaje de su tipado estático.
-- [**"MongoDB Atlas Documentation"**](https://www.mongodb.com/docs/atlas/) - Documentación para el uso de bases de datos NoSQL en la nube con MongoDB Atlas.
-- [**"REST API Design Guide"**](https://restfulapi.net/) - Guía sobre mejores prácticas para diseñar e implementar APIs RESTful.
+### **Recursos de Aprendizaje**:
+- [**Introduction to Node.js with Express**](https://nodejs.org/en/docs/guides/getting-started-guide/) - Guía práctica de introducción a Node.js y Express.
+- [**Understanding React and JSX**](https://reactjs.org/docs/introducing-jsx.html) - Documentación oficial de React sobre el uso de JSX en aplicaciones web.
+- [**TypeScript Handbook**](https://www.typescriptlang.org/docs/handbook/intro.html) - Manual oficial de TypeScript para el aprendizaje de su tipado estático.
+- [**MongoDB Atlas Documentation**](https://www.mongodb.com/docs/atlas/) - Documentación para el uso de bases de datos NoSQL en la nube con MongoDB Atlas.
+- [**REST API Design Guide**](https://restfulapi.net/) - Guía sobre mejores prácticas para diseñar e implementar APIs RESTful.
 
-**Otros recursos**:
-- Flight Pricing and Data Analysis" - Artículo sobre cómo las API recopilan y procesan información de precios de vuelos en tiempo real. Disponible en Skyscanner Blog.
-- "Trends in Travel Technology" - Un informe sobre las últimas tendencias en la industria tecnológica del viaje, destacando el uso de API y aplicaciones móviles. Disponible en Amadeus Travel Blog.
+### **Otros recursos**:
+- **Flight Pricing and Data Analysis** - Artículo sobre cómo las API recopilan y procesan información de precios de vuelos en tiempo real. Disponible en Skyscanner Blog.
+- **Trends in Travel Technology** - Un informe sobre las últimas tendencias en la industria tecnológica del viaje, destacando el uso de API y aplicaciones móviles. Disponible en Amadeus Travel Blog.
+
+### **APIs y Tecnologías**:
+- [**Skyscanner API Documentation**](https://developers.skyscanner.net) - Documentación oficial para la integración con la API de Skyscanner.
+- [**Amadeus for Developers API Documentation**](https://developers.amadeus.com) - Acceso a datos de vuelos y servicios de viaje con la API de Amadeus.
+- [**MongoDB Atlas Documentation**](https://docs.mongodb.com/cloud/atlas/) - Guía para el uso de MongoDB Atlas en la nube.
+
+### **Libros y Artículos**:
+- [**Designing APIs with Node.js** - Caio Ribeiro Pereira](https://www.amazon.com/Designing-APIs-Node-js-Caio-Pereira/dp/1788627087) - Un libro sobre cómo diseñar y construir APIs con Node.js.
+- [**React Up and Running: Building Web Applications** - Stoyan Stefanov](https://www.amazon.com/React-Up-Running-Building-Applications/dp/1491931825) - Recurso sobre cómo crear aplicaciones web dinámicas con React.
+- [**The Complete Guide to TypeScript** - Dan Vanderkam](https://www.oreilly.com/library/view/effective-typescript/9781492053736/) - Libro que profundiza en el uso de TypeScript para el desarrollo web.
+- [**Node.js 14.x Cookbook: Over 70 actionable recipes** - David Mark Clements](https://www.amazon.com/Node-js-14-x-Cookbook-actionable-applications/dp/1838558756) - Guía completa para el uso de Node.js en proyectos escalables.
+
+### **Blogs y Artículos en Línea**:
+- [**Optimizing Node.js APIs for Real-Time Data Processing**](https://nodesource.com/blog/optimizing-node-js-apis-for-real-time-data-processing) - Artículo sobre cómo optimizar APIs en Node.js para manejar grandes volúmenes de datos en tiempo real.
+- [**React Performance Optimization Techniques**](https://reactjs.org/docs/optimizing-performance.html) - Guía oficial sobre cómo optimizar el rendimiento de aplicaciones en React.
+- [**Trends in Travel Technology**](https://amadeus.com/en/insights/blog/travel-technology-trends) - Artículo del blog de Amadeus sobre las tendencias tecnológicas en el sector de viajes.
